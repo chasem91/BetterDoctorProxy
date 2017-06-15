@@ -6,7 +6,7 @@ BetterDoctorProxy allows users to search BetterDoctor for doctor information by 
 
 #### How to run:
 
-1. set the `BETTER_DOCTOR_USER_KEY` in /config/initializers/api.rb
+1. (OPTIONAL) set the `BETTER_DOCTOR_USER_KEY` in /config/initializers/api.rb to your BetterDoctor API key
 2. navigate to the root directory in your terminal
 3. run the following commands:
   - `bundle install`
